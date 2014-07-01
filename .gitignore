@@ -34,3 +34,8 @@ Icon
 # Files that might appear on external disk
 .Spotlight-V100
 .Trashes
+
+*.class
+bin/ConvertidorBase.jui
+bin/icons/Clear.png
+bin/icons/icon.png
